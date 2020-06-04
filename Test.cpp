@@ -18,7 +18,7 @@ limitations under the License.
 
 int main() {
 
-    std::cout << "Test!" << std::endl;
+    std::cout << "Hello world!" << std::endl;
     return 0;
 
 }
